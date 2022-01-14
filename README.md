@@ -1,4 +1,4 @@
-# Projet Netflix Module Php_SQL
+# Projet Netflix Module Php_MySQL
 
 ## 1. Contexte de l'évaluation 
 Lors du module de formation Php_My SQL on doit créer une interface de connexion ressemblant à Netflix.  
